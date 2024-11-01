@@ -1,6 +1,6 @@
 package com.study.section2
 
-import section2.Person
+import Person
 
 fun main() {
     val number1 = 1

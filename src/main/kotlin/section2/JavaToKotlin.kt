@@ -1,5 +1,7 @@
 package section2;
 
+import Person
+
 fun main() {
     val person = Person("홍길동") // 코틀린에서는 객체 생성시 new 키워드 사용 X
 
