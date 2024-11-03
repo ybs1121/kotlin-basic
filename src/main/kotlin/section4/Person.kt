@@ -29,9 +29,9 @@ class Person(
     } // 최종적으로는 주 생성자를 호출 해야한다
     // 이 생성자는 name을 받는 생성자를 호출하고 그 다음에 주 생성자를 호출
 
-    fun isAdult(): Boolean {
-        return this.age >= 20
-    }
+//    fun isAdult(): Boolean {
+//        return this.age >= 20
+//    }
 
     val isAdult: Boolean // 커스텀 getter
         get() {
